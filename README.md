@@ -86,3 +86,4 @@ Para visualizar PDF do Backlog, [Clique aqui.](https://github.com/HarielThums/Pr
 - [x] Sprint 2 - 08/11/2020 | [Sprint 2](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint2)
 - [x] Sprint 3 - 29/11/2020 | [Sprint 3](https://github.com/HarielThums/ProjetoIntegrador01/tree/main/Sprint3)
 
+# ProjetoIntegrador01
